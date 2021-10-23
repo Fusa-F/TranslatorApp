@@ -1,0 +1,2 @@
+# TranslatorApp
+DjangoでApp練習
